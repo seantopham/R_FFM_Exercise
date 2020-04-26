@@ -1,0 +1,39 @@
+﻿number,name,text,reverse,label,scale,agreeableness,conscientiousness,extraversion,neuroticism,openness
+1,a1,Am indifferent to the feelings of others. ,-1,a1: Am indifferent to the feelings of others. ,Agreeableness,-1,0,0,0,0
+2,a2,Inquire about others' well-being. ,1,a2: Inquire about others' well-being. ,Agreeableness,1,0,0,0,0
+3,a3,Know how to comfort others. ,1,a3: Know how to comfort others. ,Agreeableness,1,0,0,0,0
+4,a4,Love children. ,1,a4: Love children. ,Agreeableness,1,0,0,0,0
+5,a5,Make people feel at ease. ,1,a5: Make people feel at ease. ,Agreeableness,1,0,0,0,0
+6,c1,Am exacting in my work. ,1,c1: Am exacting in my work. ,Conscientiousness,0,1,0,0,0
+7,c2,Continue until everything is perfect. ,1,c2: Continue until everything is perfect. ,Conscientiousness,0,1,0,0,0
+8,c3,Do things according to a plan. ,1,c3: Do things according to a plan. ,Conscientiousness,0,1,0,0,0
+9,c4,Do things in a half-way manner. ,-1,c4: Do things in a half-way manner. ,Conscientiousness,0,-1,0,0,0
+10,c5,Waste my time. ,-1,c5: Waste my time. ,Conscientiousness,0,-1,0,0,0
+11,e1,Don't talk a lot. ,-1,e1: Don't talk a lot. ,Extraversion,0,0,-1,0,0
+12,e2,Find it difficult to approach others. ,-1,e2: Find it difficult to approach others. ,Extraversion,0,0,-1,0,0
+13,e3,Know how to captivate people. ,1,e3: Know how to captivate people. ,Extraversion,0,0,1,0,0
+14,e4,Make friends easily. ,1,e4: Make friends easily. ,Extraversion,0,0,1,0,0
+15,e5,Take charge. ,1,e5: Take charge. ,Extraversion,0,0,1,0,0
+16,n1,Get angry easily. ,1,n1: Get angry easily. ,Neuroticism,0,0,0,1,0
+17,n2,Get irritated easily. ,1,n2: Get irritated easily. ,Neuroticism,0,0,0,1,0
+18,n3,Have frequent mood swings. ,1,n3: Have frequent mood swings. ,Neuroticism,0,0,0,1,0
+19,n4,Often feel blue. ,1,n4: Often feel blue. ,Neuroticism,0,0,0,1,0
+20,n5,Panic easily. ,1,n5: Panic easily. ,Neuroticism,0,0,0,1,0
+21,o1,Am full of ideas. ,1,o1: Am full of ideas. ,Openness,0,0,0,0,1
+22,o2,Avoid difficult reading material.,-1,o2: Avoid difficult reading material.,Openness,0,0,0,0,-1
+23,o3,Carry the conversation to a higher level. ,1,o3: Carry the conversation to a higher level. ,Openness,0,0,0,0,1
+24,o4,Spend time reflecting on things. ,1,o4: Spend time reflecting on things. ,Openness,0,0,0,0,1
+25,o5,Will not probe deeply into a subject. ,-1,o5: Will not probe deeply into a subject. ,Openness,0,0,0,0,-1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
